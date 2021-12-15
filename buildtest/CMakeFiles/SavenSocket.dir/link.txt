@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSavenSocket.a  CMakeFiles/SavenSocket.dir/src/saven_socket.cpp.o
+/usr/bin/ranlib libSavenSocket.a

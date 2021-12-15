@@ -1,0 +1,8 @@
+/home/ubuntu/MySever/buildtest/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/MySever/buildtest/CMakeFiles/SavenSocket.dir
+/home/ubuntu/MySever/buildtest/CMakeFiles/SavenUtils.dir
+/home/ubuntu/MySever/buildtest/CMakeFiles/edit_cache.dir
+/home/ubuntu/MySever/buildtest/CMakeFiles/SavenHeaderParse.dir
+/home/ubuntu/MySever/buildtest/CMakeFiles/SavenHeaderSolve.dir
+/home/ubuntu/MySever/buildtest/CMakeFiles/SavenHttpServer.dir
+/home/ubuntu/MySever/buildtest/CMakeFiles/SavenServer.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSavenHeaderSolve.a  CMakeFiles/SavenHeaderSolve.dir/src/saven_headersolver.cpp.o
+/usr/bin/ranlib libSavenHeaderSolve.a

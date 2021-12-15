@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSavenHeaderParse.a  CMakeFiles/SavenHeaderParse.dir/src/saven_headerparse.cpp.o
+/usr/bin/ranlib libSavenHeaderParse.a

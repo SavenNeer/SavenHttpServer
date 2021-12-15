@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/SavenServer.dir/src/main.cpp.o  -o SavenServer libSavenUtils.a libSavenSocket.a libSavenHeaderParse.a libSavenHttpServer.a libSavenHeaderSolve.a libSavenSocket.a libSavenHeaderParse.a libSavenUtils.a 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSavenHttpServer.a  CMakeFiles/SavenHttpServer.dir/src/saven_httpserver.cpp.o
+/usr/bin/ranlib libSavenHttpServer.a

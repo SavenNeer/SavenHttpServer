@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//include/utils.h
+string
+-
+
+/home/ubuntu/MySever/src/utils.cpp
+include/utils.h
+/home/ubuntu/MySever/src/include/utils.h
+

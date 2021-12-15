@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSavenUtils.a  CMakeFiles/SavenUtils.dir/src/utils.cpp.o
+/usr/bin/ranlib libSavenUtils.a
