@@ -1,0 +1,16 @@
+//screen命令与后台运行
+//https://www.jianshu.com/p/09d86aad9fa4
+
+screen 创建新窗口
+screen -S name 和上面一样，同时取名，方便管理
+输入你想要的运行的内容
+ctrl-a d 先按ctrl+a，再按d，dettach，此时你可以关闭连接了，做自己想做的事情去。
+screen -ls 查看当前有哪些会话，并显示id
+screen -r id 恢复会话~~~~
+screen -S id -X quit 删除会话
+
+作者：glimmer_gu
+链接：https://www.jianshu.com/p/09d86aad9fa4
+来源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
