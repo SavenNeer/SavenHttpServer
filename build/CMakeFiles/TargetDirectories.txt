@@ -1,0 +1,10 @@
+/home/ubuntu/beifen_MySever/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/beifen_MySever/build/CMakeFiles/SavenServer.dir
+/home/ubuntu/beifen_MySever/build/CMakeFiles/SavenTimeWheel.dir
+/home/ubuntu/beifen_MySever/build/CMakeFiles/SavenSocket.dir
+/home/ubuntu/beifen_MySever/build/CMakeFiles/SavenUtils.dir
+/home/ubuntu/beifen_MySever/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/beifen_MySever/build/CMakeFiles/SavenHeaderParse.dir
+/home/ubuntu/beifen_MySever/build/CMakeFiles/SavenHeaderBuilder.dir
+/home/ubuntu/beifen_MySever/build/CMakeFiles/SavenHeaderSolve.dir
+/home/ubuntu/beifen_MySever/build/CMakeFiles/SavenHttpServer.dir
