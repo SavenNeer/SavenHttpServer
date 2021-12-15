@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSavenTimeWheel.a  CMakeFiles/SavenTimeWheel.dir/src/saven_timewheel.cpp.o
+/usr/bin/ranlib libSavenTimeWheel.a

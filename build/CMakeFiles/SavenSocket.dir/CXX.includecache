@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//include/saven_socket.h
+arpa/inet.h
+-
+unistd.h
+-
+fcntl.h
+-
+string
+-
+
+/home/ubuntu/beifen_MySever/src/saven_socket.cpp
+include/saven_socket.h
+/home/ubuntu/beifen_MySever/src/include/saven_socket.h
+string.h
+-
+iostream
+-
+

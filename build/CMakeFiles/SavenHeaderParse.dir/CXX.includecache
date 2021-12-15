@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//include/saven_headerparse.h
+include/utils.h
+../include/include/utils.h
+unordered_map
+-
+iostream
+-
+vector
+-
+string
+-
+algorithm
+-
+typeinfo
+-
+iterator
+-
+
+..//include/utils.h
+string
+-
+
+/home/ubuntu/beifen_MySever/src/saven_headerparse.cpp
+include/saven_headerparse.h
+/home/ubuntu/beifen_MySever/src/include/saven_headerparse.h
+include/utils.h
+/home/ubuntu/beifen_MySever/src/include/utils.h
+

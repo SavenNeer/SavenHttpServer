@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSavenHeaderBuilder.a  CMakeFiles/SavenHeaderBuilder.dir/src/saven_headerbuilder.cpp.o
+/usr/bin/ranlib libSavenHeaderBuilder.a
